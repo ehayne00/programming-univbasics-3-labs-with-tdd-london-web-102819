@@ -1,6 +1,4 @@
 # Add your variables here
 first_number = 7
 second_number = 8
-sum do
-  first_number + second_number
-end
+sum = first_number + second_number
